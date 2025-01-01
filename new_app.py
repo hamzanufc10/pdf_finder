@@ -9,7 +9,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 
-api_key = "AIzaSyDGL3xUQm1E-haHsB4GQQPPQFOyygtdgnY" 
+api_key = "ABC" 
 genai.configure(api_key=api_key) 
 
 
